@@ -81,6 +81,11 @@ p.success {
 p.danger {
 	color: red;
 }
+
+#Logo{
+  width:200%;
+  height:auto;
+}
 /************ Navbar Css ************/
 nav.navbar {
   padding: 18px 0;
