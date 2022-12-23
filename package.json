@@ -1,7 +1,7 @@
 {
   "name": "personal-portfolio",
   "version": "0.1.0",
-  "homepage":"https://corrosivelogic.github.io/Yash.github.io/",
+  "homepage": "https://corrosivelogic.github.io/Yash.github.io/",
   "private": false,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
