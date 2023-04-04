@@ -1,13 +1,15 @@
 {
   "files": {
     "main.css": "/Yash.github.io/static/css/main.277593f4.css",
-    "main.js": "/Yash.github.io/static/js/main.88a73af8.js",
+    "main.js": "/Yash.github.io/static/js/main.8394ad90.js",
     "static/js/787.fb771931.chunk.js": "/Yash.github.io/static/js/787.fb771931.chunk.js",
     "static/media/Lark.png": "/Yash.github.io/static/media/Lark.5fb4c64f9cbdaaa1a8fe.png",
     "static/media/color-sharp.png": "/Yash.github.io/static/media/color-sharp.bea361cfef80fefc2d1e.png",
     "static/media/color-sharp2.png": "/Yash.github.io/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/BlockBallot.png": "/Yash.github.io/static/media/BlockBallot.1e7c0377935d8571468a.png",
+    "static/media/Sceptique.png": "/Yash.github.io/static/media/Sceptique.b998e14cd24c0b28d1dc.png",
     "static/media/logo.png": "/Yash.github.io/static/media/logo.7f8e4df2d17d45578940.png",
+    "static/media/Investify.png": "/Yash.github.io/static/media/Investify.522c386de7aaaf59f461.png",
     "static/media/banner-bg.png": "/Yash.github.io/static/media/banner-bg.cc1273af450504afe755.png",
     "static/media/header-img.svg": "/Yash.github.io/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
     "static/media/CentraNo2-Bold.ttf": "/Yash.github.io/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
@@ -26,14 +28,12 @@
     "static/media/github.svg": "/Yash.github.io/static/media/github.97ed8e7eef60d61ca469881dd6f34511.svg",
     "index.html": "/Yash.github.io/index.html",
     "static/media/nav-icon1.svg": "/Yash.github.io/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
-    "static/media/arrow2.svg": "/Yash.github.io/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
-    "static/media/arrow1.svg": "/Yash.github.io/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
     "main.277593f4.css.map": "/Yash.github.io/static/css/main.277593f4.css.map",
-    "main.88a73af8.js.map": "/Yash.github.io/static/js/main.88a73af8.js.map",
+    "main.8394ad90.js.map": "/Yash.github.io/static/js/main.8394ad90.js.map",
     "787.fb771931.chunk.js.map": "/Yash.github.io/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.277593f4.css",
-    "static/js/main.88a73af8.js"
+    "static/js/main.8394ad90.js"
   ]
 }
