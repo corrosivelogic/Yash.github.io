@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Yash.github.io/static/css/main.277593f4.css",
-    "main.js": "/Yash.github.io/static/js/main.8394ad90.js",
+    "main.js": "/Yash.github.io/static/js/main.19f95404.js",
     "static/js/787.fb771931.chunk.js": "/Yash.github.io/static/js/787.fb771931.chunk.js",
     "static/media/Lark.png": "/Yash.github.io/static/media/Lark.5fb4c64f9cbdaaa1a8fe.png",
     "static/media/color-sharp.png": "/Yash.github.io/static/media/color-sharp.bea361cfef80fefc2d1e.png",
@@ -29,11 +29,11 @@
     "index.html": "/Yash.github.io/index.html",
     "static/media/nav-icon1.svg": "/Yash.github.io/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
     "main.277593f4.css.map": "/Yash.github.io/static/css/main.277593f4.css.map",
-    "main.8394ad90.js.map": "/Yash.github.io/static/js/main.8394ad90.js.map",
+    "main.19f95404.js.map": "/Yash.github.io/static/js/main.19f95404.js.map",
     "787.fb771931.chunk.js.map": "/Yash.github.io/static/js/787.fb771931.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.277593f4.css",
-    "static/js/main.8394ad90.js"
+    "static/js/main.19f95404.js"
   ]
 }
