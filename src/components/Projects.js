@@ -15,13 +15,13 @@ export const Projects = () => {
     {
       title: "Investify",
       description: "Stock Trading simulator",
-      GithubUrl: 'https://github.com/corrosivelogic/TeamCodeBeyond-QDECC' ,
+      GithubUrl: 'https://github.com/Season-of-Code-2023-MDG-Space/money-mavericks' ,
       imgUrl: projImg4,
     },
     {
       title: "Sceptique",
       description: "Sentiment Analysis and Summarizer",
-      GithubUrl: 'https://github.com/corrosivelogic/TeamCodeBeyond-QDECC' ,
+      GithubUrl: 'https://github.com/corrosivelogic/Sceptique' ,
       imgUrl: projImg5,
     },
     {
