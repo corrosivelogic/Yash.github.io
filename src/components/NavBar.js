@@ -51,7 +51,7 @@ export const NavBar = () => {
             <span className="navbar-text">
               <div className="social-icon">
                 <a href="https://www.linkedin.com/in/yash-tanwar-78b55023b/" target="_blank"><img src={navIcon1} alt="" /></a>
-                <a href="https://github.com/corrosivelogic" target="_blank"><img src={navIcon2} alt="" /></a>
+                <a href="https://github.com/corrosivelogic" target="_blank"><img  src={navIcon2} alt="" /></a>
                 <a href="https://www.instagram.com/_.yashtanwar._/" target="_blank"><img src={navIcon3} alt="" /></a>
               </div>
               <HashLink to='#connect'>
